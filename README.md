@@ -20,7 +20,7 @@ The Board of Elections added additional deliverables to analyze the results for 
 
 
 
-![This is an image](\resources\election_results.png)
+![This is an image](/resources/election_results.png)
 
 
 - How many votes were cast in this congressional election?
